@@ -17,18 +17,20 @@ To provide a desktop-based registration system that captures student biodata and
   - Dropdown menu with short-term TVET programs
   - Display of course details
 - Submit & reset functionality
-- Form validation and basic error handling
-- Java Swing GUI with 1–3 interface screens
 
 ## 🛠 Technologies Used
 
-- Java SE (JDK 8 or above)
+- Java SE (JDK 17)
 - Java Swing (for GUI)
-- IntelliJ / NetBeans / VS Code (any Java IDE)
-- File I/O (optional: store submissions)
+- Apache NetBeans IDE 25
 
 ## 🚀 How to Run
 
 1. Clone or download this repository:
    ```bash
    git clone https://github.com/your-username/java-tvet-registration-gui.git
+
+## 📽 Demo
+
+[Click here to watch the demo video](demo/Java_Final_Project_Demo_Video_Github.mp4)
+
