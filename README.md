@@ -34,3 +34,6 @@ To provide a desktop-based registration system that captures student biodata and
 
 [Click here to watch the demo video](demo/Java_Final_Project_Demo_Video_Github.mp4)
 
+## Executable: Download the App
+
+➡️ [Download from GitHub Releases](https://github.com/vicky0831/online-application-form-java-swing/releases)
