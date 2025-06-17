@@ -22,7 +22,7 @@ public class Course_Information extends JPanel {
         setLayout(null); // Absolute positioning
         setBackground(PANEL_BG);
         
-                // Back button at top right
+        // Back button at top right
         backButton = new JButton("← Back");
         backButton.setFont(new Font("Segoe UI", Font.PLAIN, 14));
         backButton.setBounds(850, 20, 100, 30);

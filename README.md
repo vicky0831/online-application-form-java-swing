@@ -28,7 +28,7 @@ To provide a desktop-based registration system that captures student biodata and
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-username/java-tvet-registration-gui.git
+   git clone https://github.com/your-username/online-application-form-java-swing.git
 
 ## 📽 Demo
 

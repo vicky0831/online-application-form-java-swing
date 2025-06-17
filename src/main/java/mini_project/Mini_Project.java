@@ -1,10 +1,10 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
+
 package mini_project;
 
-import java.awt.*;
-import javax.swing.*;
+import java.awt.CardLayout;
+
+import javax.swing.JFrame;
+import javax.swing.JPanel;
 
 
 /**
@@ -39,5 +39,3 @@ public class Mini_Project extends JPanel {
         frame.setVisible(true);
     }
 }
-
-// Use bCardLayout for page switching

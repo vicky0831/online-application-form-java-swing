@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package mini_project;
 
 import java.awt.*;
@@ -15,7 +12,7 @@ import java.awt.event.KeyEvent;
 
 /**
  *
- * @author USER
+ * @author Vicky
  */
 public class ApplicationPage extends JPanel {
     private JLabel Label, Label2, Label3, Label4;

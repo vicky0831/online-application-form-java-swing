@@ -1,13 +1,20 @@
 package mini_project;
 
 import java.util.Properties;
-import jakarta.mail.*;
-import jakarta.mail.internet.*;
+
+import jakarta.mail.Authenticator;
+import jakarta.mail.Message;
+import jakarta.mail.MessagingException;
+import jakarta.mail.PasswordAuthentication;
+import jakarta.mail.Session;
+import jakarta.mail.Transport;
+import jakarta.mail.internet.InternetAddress;
+import jakarta.mail.internet.MimeMessage;
 
 public class EmailSender {
     public static void sendUserDetails(String toEmail, String subject, String body) {
-        final String fromEmail = "bangimalaysianinstitute79@gmail.com";         // ✅ Your Gmail
-        final String password = "ksrv zptb dutp gkkh";       // ✅ App Password, NOT your Gmail password
+        final String fromEmail = "example@gmail.com";         // ✅ Your Gmail
+        final String password = "12345678";       // ✅ App Password, NOT your Gmail password
 
         // SMTP configuration for Gmail
         Properties props = new Properties();
