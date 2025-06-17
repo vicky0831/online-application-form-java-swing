@@ -13,7 +13,7 @@ import jakarta.mail.internet.MimeMessage;
 
 public class EmailSender {
     public static void sendUserDetails(String toEmail, String subject, String body) {
-        final String fromEmail = "example@gmail.com";         // ✅ Your Gmail
+        final String fromEmail = "example@gmail.com";     // ✅ Your Gmail
         final String password = "12345678";       // ✅ App Password, NOT your Gmail password
 
         // SMTP configuration for Gmail

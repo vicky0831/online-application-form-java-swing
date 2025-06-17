@@ -37,6 +37,7 @@ b. Replace the placeholder email and password with your actual email credentials
    ```java
    final String fromEmail = "your-email@gmail.com";
    final String password = "your-app-password";
+```
 
 ## 📽 Demo
 
