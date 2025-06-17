@@ -1,10 +1,10 @@
 # Java TVET Course Registration App
 
-A Java Swing GUI application for school leavers to apply for short-term TVET (Technical and Vocational Education and Training) courses through a user-friendly registration form.
+A minimalist Java Swing GUI application for school leavers to apply for short-term TVET (Technical and Vocational Education and Training) courses through a user-friendly registration form.
 
 ## 🎯 Project Objective
 
-To provide a desktop-based registration system that captures student biodata and selected courses using Java Swing components. This project simulates an online application process for educational institutions offering short-term technical programs.
+To provide a desktop-based registration system that captures student biodata and selected courses using Java Swing components. This project simulates an online application process for educational institutions offering short-term technical programs, and includes functionality to send the submitted details via email to the university for further processing.
 
 ## 🖥 Features
 
