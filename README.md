@@ -30,6 +30,14 @@ To provide a desktop-based registration system that captures student biodata and
    ```bash
    git clone https://github.com/your-username/online-application-form-java-swing.git
 
+2. Before running the application, you must configure your email credentials for the email-sending functionality.
+
+a. Open `EmailSender.java`
+b. Replace the placeholder email and password with your actual email credentials:
+   ```java
+   final String fromEmail = "your-email@gmail.com";
+   final String password = "your-app-password";
+
 ## 📽 Demo
 
 [Click here to watch the demo video](demo/Java_Final_Project_Demo_Video_Github.mp4)
