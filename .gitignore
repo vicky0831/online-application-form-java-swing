@@ -1,0 +1,28 @@
+# Java class files
+*.class
+
+# Generated files
+*.log
+*.jar
+*.war
+
+# Build directories
+/build/
+/out/
+/target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# NetBeans
+/nbproject/private/
+/build/
+/dist/
+
+# VS Code
+.vscode/
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
